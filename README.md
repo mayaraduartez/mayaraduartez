@@ -1,4 +1,4 @@
-- Cursando Téc. em Informatica.
+- Desenvolvedora
 
 <div align="center">
   <a href="https://github.com/mayaraduartez">
