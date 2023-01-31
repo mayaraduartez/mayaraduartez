@@ -1,4 +1,4 @@
-- Desenvolvedora
+- Desenvolvedora back-end
 
 <div align="center">
   <a href="https://github.com/mayaraduartez">
