@@ -22,10 +22,24 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayaraduartez&show_icons=true&theme=tokyonight"/>
+  <img
+    width="30%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayaraduartez&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img
+    width="30%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayaraduartez&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
 
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayaraduartez&layout=compact&theme=tokyonight" />
-<img src="https://streak-stats.demolab.com?user=mayaraduartez&theme=tokyonight"/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=mayaraduartez&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+
 </p>
 
 ---
