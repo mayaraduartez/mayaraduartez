@@ -13,7 +13,7 @@
 
 # Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,react,js,html,css,mysql,postgres,mongodb,git,github,vscode&perline=16" />
 </p>
 
